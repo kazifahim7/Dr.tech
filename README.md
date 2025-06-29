@@ -16,7 +16,7 @@ https://drtechlatest.vercel.app/api
 - All sensitive operations (services, availability, appointments) require a valid **JWT token**.
 - Tokens are received after a successful login and must be passed in the `Authorization` header as:  
   ```
-  Authorization: Bearer <your_token_here>
+  Authorization:  <your_token_here>
   ```
 
 ---
