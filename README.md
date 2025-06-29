@@ -252,7 +252,7 @@ PATCH /appoint/doctor/appointments/:appointmentId/status
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Node.js, Express.js, MongoDB
+- **Backend**: Node.js, Express.js, MongoDB , Mongoose
 - **Auth**: JWT
 - **Hosted on**: Vercel
 
